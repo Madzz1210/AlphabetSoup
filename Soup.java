@@ -1,3 +1,8 @@
+//Name: Maddy Dyer
+//Date: 10/01/26
+//Description: This program will alter the string list based off of the users commands and the company name, etc.
+
+
 public class Soup {
     //these are instance variables 
     private String letters; //refreshingdeliciouszero
